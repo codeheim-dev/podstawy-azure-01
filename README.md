@@ -1,2 +1,3 @@
-# podstawy-azure-01
+# Podstawy MS Azure
+
 Materiały szkoleniowe z "Podstawy Azure"
